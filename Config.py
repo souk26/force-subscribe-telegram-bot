@@ -11,7 +11,7 @@ class Config():
     SUDO_USERS.append(728771705)
     SUDO_USERS = list(set(SUDO_USERS))
   else:
-    BOT_TOKEN = "1745967516:AAHh6wHmP_nqCyp12hcTMUN-BjLI48neMHw"
+    BOT_TOKEN = ""
     DATABASE_URL = ""
     APP_ID = "2698821"
     API_HASH = "4af625c75eb9e72e1b228411b0c7cd42"
